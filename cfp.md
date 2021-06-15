@@ -1,7 +1,7 @@
 ---
 layout: page
-title: 2021
-permalink: /2021/
+title: cfp
+permalink: /cfp/
 ---
 # The 1st ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data (GeoSearch)
 
