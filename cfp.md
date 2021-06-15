@@ -3,7 +3,7 @@ layout: page
 title: Call for Paper
 permalink: /cfp/
 ---
-# Mission
+## Mission
 
 The amount of location data generated and models that are being developed is
 increasing quickly. Remote sensing provides exabytes of Earth observation data,
@@ -140,7 +140,7 @@ will be peer reviewed to ensure the quality and the clarity of the presented
 research work. Submissions will be single-blind — i.e., the names affiliations
 of the authors should be listed in the submitted version.
 
-Papers should be submitted at: TBC
+Papers should be submitted at: https://easychair.org/conferences/?conf=geosearch21
 
 ## **Program Committee**
 

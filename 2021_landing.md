@@ -1,9 +1,7 @@
 ---
 layout: page
-title: 2021 Workshop Edition
 permalink: /2021/
 ---
-## News
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
