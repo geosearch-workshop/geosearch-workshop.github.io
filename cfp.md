@@ -1,12 +1,8 @@
 ---
 layout: page
-title: cfp
+title: Call for Paper
 permalink: /cfp/
 ---
-# The 1st ACM SIGSPATIAL International Workshop on Searching and Mining Large Collections of Geospatial Data (GeoSearch)
-
-
-
 # Mission
 
 The amount of location data generated and models that are being developed is
