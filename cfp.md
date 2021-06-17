@@ -93,13 +93,13 @@ Example topics include but are not limited to:
 
 ## **Workshop Co-Chairs**
 
--   Gabriele Cavallaro, University of Bonn, Remote Sensing and High-Performance
+-   Gabriele Cavallaro, Forschungszentrum Jülich, Remote Sensing and High-Performance
     Computing from the European community
 
 -   Dora B. Heras, University of Santiago de Compostela, Remote Sensing and
     High-Performance Computing in Europe
 
--   Dalton Lunga, ORNL, Machine Learning and Remote Sensing Expert from the U.S.
+-   Dalton Lunga, Oak Ridge National Laboratory, Machine Learning and Remote Sensing Expert from the U.S.
     community
 
 -   Martin Werner, TU Munich, Big Data and HPC for spatial computing in Europe
