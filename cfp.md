@@ -112,7 +112,7 @@ All inquiries for the 2021 edition shall be sent to
 
 ## **Important Dates**
 
--   Paper submission: August 28, 2021
+-   Paper submission: September 15, 2021
 
 -   Acceptance decision: September 27, 2021
 
